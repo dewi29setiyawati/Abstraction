@@ -4,8 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-//using Abstraction.AbstractClass;
-//using AbstractClass.Interface;
+//gunakan Abstraction.AbstractClass; untuk AbstractClass
+//gunakan AbstractClass.Interface; untul Interface
 
 namespace Abstraction
 {
