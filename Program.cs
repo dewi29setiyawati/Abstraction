@@ -13,7 +13,8 @@ namespace Abstraction
     {
         static void Main(string[] args)
         {
-            //UNTUK ABSTRACT
+            //Abstract Class
+            
             /*Hewan hewan;
 
             Console.WriteLine();
@@ -35,7 +36,8 @@ namespace Abstraction
             hewan = new Omnivora();
             hewan.PenggolonganMenurutMakanan();*/
 
-            //UNTUK INTERFACE
+            
+            //Interface
 
             /*IHewan hewan;
 
