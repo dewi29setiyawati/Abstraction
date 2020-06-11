@@ -4,12 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-//using Abstraction.AbstractClass;
-//using AbstractClass.Interface;
-
 namespace AbstractClass.Interface
 {
-     public interface IHewan
+    public interface IHewan
     {
          void PenggolonganMenurutMakanan();
     }
