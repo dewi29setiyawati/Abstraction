@@ -4,9 +4,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-//using Abstraction.AbstractClass;
-//using AbstractClass.Interface;
-
 namespace Abstraction.AbstractClass
 {
     public abstract class Hewan
@@ -55,7 +52,6 @@ namespace Abstraction.AbstractClass
     {
         static void Main(string[] args)
         {
-            //UNTUK ABSTRACT
             Hewan hewan;
 
             Console.WriteLine();
